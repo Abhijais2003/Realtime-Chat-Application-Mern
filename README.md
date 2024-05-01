@@ -1,5 +1,4 @@
 # 🚀 Text-LPU
-
 Text-LPU is a real-time chat application built with React, Node.js, Express, MongoDB, and Socket.IO. It allows users to communicate with each other in real-time via individual and group chats.
 
 ## Features
@@ -104,4 +103,4 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
