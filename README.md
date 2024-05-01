@@ -1,8 +1,6 @@
-# 🚀 Textalot
+# 🚀 Text-LPU
 
-![Textalot Logo](/frontend/public/logo192.png)
-
-Textalot is a real-time chat application built with React, Node.js, Express, MongoDB, and Socket.IO. It allows users to communicate with each other in real-time via individual and group chats.
+Text-LPU is a real-time chat application built with React, Node.js, Express, MongoDB, and Socket.IO. It allows users to communicate with each other in real-time via individual and group chats.
 
 ## Features
 
@@ -38,13 +36,13 @@ Textalot is a real-time chat application built with React, Node.js, Express, Mon
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/textalot.git
+   git clone https://github.com/Abhijais2003/Realtime-Chat-Application-Mern.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd textalot
+   cd text-LPU
    ```
 
 3. Install server dependencies:
