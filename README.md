@@ -1,4 +1,3 @@
-```markdown
 # Textalot
 
 Textalot is a real-time chat application built with React, Node.js, Express, MongoDB, and Socket.IO. It allows users to communicate with each other in real-time via individual and group chats.
