@@ -1,7 +1,7 @@
 # 🚀 Text-LPU
 Text-LPU is a real-time chat application built with React, Node.js, Express, MongoDB, and Socket.IO. It allows users to communicate with each other in real-time via individual and group chats.
 
-## Features
+## 🌟 Features
 
 - **Real-time Messaging**: Chat with other users in real-time.
 - **Individual and Group Chats**: Start conversations with individual users or create group chats.
@@ -9,7 +9,7 @@ Text-LPU is a real-time chat application built with React, Node.js, Express, Mon
 - **User Authentication**: Secure authentication system using JWT tokens.
 - **Responsive Design**: User-friendly interface that works well on desktop and mobile devices.
 
-## Technologies Used
+## 🧑‍💻👩‍💻 Technologies Used
 
 - **Frontend**: React.js, Chakra UI, Socket.IO Client
 - **Backend**: Node.js, Express, MongoDB, Socket.IO
@@ -17,7 +17,7 @@ Text-LPU is a real-time chat application built with React, Node.js, Express, Mon
 - **Styling**: Chakra UI, CSS 
 - **Deployment**: Heroku (for backend), Vercel/Netlify (for frontend)
 
-## Screenshots
+## 📷 Screenshots
 
 ![Screenshot 1](/Text-LPU-Screenshots/1st.png)
 ![Screenshot 2](/Text-LPU-Screenshots/2nd.png)
@@ -28,14 +28,14 @@ Text-LPU is a real-time chat application built with React, Node.js, Express, Mon
 ![Screenshot 7](/Text-LPU-Screenshots/7th.png)
 ![Screenshot 8](/Text-LPU-Screenshots/8th.png)
 
-## Getting Started
+## 🚗 Getting Started
 
 ### Prerequisites
 
 - Node.js installed on your local machine
 - MongoDB Atlas account (for remote MongoDB database)
 
-### Installation
+### 🛠️ Installation
 
 1. Clone the repository:
 
@@ -67,7 +67,7 @@ Text-LPU is a real-time chat application built with React, Node.js, Express, Mon
    npm install
    ```
 
-### Configuration
+### 📚 Configuration
 
 1. Create a `.env` file in the root directory:
 
@@ -80,7 +80,7 @@ Text-LPU is a real-time chat application built with React, Node.js, Express, Mon
 
 2. Replace `your_mongodb_uri` with your MongoDB connection string and `your_jwt_secret` with a secret key for JWT token generation.
 
-### Running the Application
+### 🏃 Running the Application
 
 1. Start the server:
 
@@ -97,10 +97,10 @@ Text-LPU is a real-time chat application built with React, Node.js, Express, Mon
 
 3. Access the application in your web browser at `http://localhost:3000`.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or bug fixes.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License.
