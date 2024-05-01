@@ -20,7 +20,7 @@ Text-LPU is a real-time chat application built with React, Node.js, Express, Mon
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 1](/Text-LPU-Screenshots/1st.png)
 ![Screenshot 2](/screenshots/screenshot2.png)
 ![Screenshot 3](/screenshots/screenshot3.png)
 
