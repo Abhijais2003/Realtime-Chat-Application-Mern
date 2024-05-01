@@ -1,5 +1,3 @@
-Absolutely! Here's a complete README.md file for your project:
-
 ```markdown
 # Textalot
 
