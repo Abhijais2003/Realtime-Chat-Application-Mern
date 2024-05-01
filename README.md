@@ -1,4 +1,6 @@
-# Textalot
+# 🚀 Textalot
+
+![Textalot Logo](/frontend/public/logo192.png)
 
 Textalot is a real-time chat application built with React, Node.js, Express, MongoDB, and Socket.IO. It allows users to communicate with each other in real-time via individual and group chats.
 
@@ -15,7 +17,14 @@ Textalot is a real-time chat application built with React, Node.js, Express, Mon
 - **Frontend**: React.js, Chakra UI, Socket.IO Client
 - **Backend**: Node.js, Express, MongoDB, Socket.IO
 - **Authentication**: JWT (JSON Web Tokens)
+- **Styling**: Chakra UI, CSS 
 - **Deployment**: Heroku (for backend), Vercel/Netlify (for frontend)
+
+## Screenshots
+
+![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 3](/screenshots/screenshot3.png)
 
 ## Getting Started
 
@@ -94,5 +103,3 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Feel free to customize it further to suit your project's specific needs. If you have any questions or need further assistance, just let me know!
